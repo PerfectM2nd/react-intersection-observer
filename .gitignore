@@ -4,7 +4,6 @@ node_modules
 reports
 example
 lib/
-dist/
 test-utils/
 coverage/
 nuget
